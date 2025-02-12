@@ -5,7 +5,7 @@
 
 <h2 align="left">CURSANDO ADS</h2>
 <h4>.Atualmente trabalhando na aréa administrativa do Tjpe</h4>
-<h4>.TrabAlhei com público e com vendas </h4>
+<h4>.Trabalhei com público e com vendas </h4>
 <h4>.Habilidade em excel intermediário </h4>
 <p align="left">
 </p>
